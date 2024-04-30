@@ -1,7 +1,6 @@
 # Implement a design from scratch 🎧
 
-Welcome to the "Implement a design from scratch project!"  
-I'll be creating a web page from scratch, without relying on any external libraries. Using my HTML, CSS, accessibility, and responsive design skills, I aim to replicate the design provided in the designer file.
+In this project, I'll be creating a web page from scratch, without relying on any external libraries. Using my HTML, CSS, accessibility, and responsive design skills, I aim to replicate the design provided in the designer file.  
 
 Here's what the final result looks like:
 
